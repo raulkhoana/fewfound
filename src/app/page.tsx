@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import { Wordmark } from '@/components/Wordmark';
 import { getStats } from '@/lib/supabase';
 import { SITE_URL, AGENCY_CATEGORIES, CREATOR_CATEGORIES, PROFESSIONAL_CATEGORIES, CITIES } from '@/lib/constants';
-
+export const dynamic = 'force-dynamic';
 export const metadata: Metadata = {
   title: "Few Found - India's Trust Layer for Marketing Service Providers",
   description: "Free listing and independent verification for marketing agencies, creators, and professionals in India. Brands browse free. The verified mark is earned, not bought.",
