@@ -69,7 +69,7 @@ export function Footer() {
 
         <div style={{ borderTop: '1px solid #E2DED6', paddingTop: 20, display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8 }}>
           <p style={{ fontFamily: "'Helvetica Neue', Arial, sans-serif", fontSize: 11, color: '#7A7773', margin: 0 }}>
-            © 2026 Few Found. All rights reserved.
+            © 2026 Few Found. All rights reserved. Operated by Scalemind Media
           </p>
           <p style={{ fontFamily: "'Helvetica Neue', Arial, sans-serif", fontSize: 11, color: '#7A7773', margin: 0 }}>
             Verified providers are independently assessed. No paid placement. Ever.
